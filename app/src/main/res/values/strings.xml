@@ -1,5 +1,17 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">MedCare</string>
 
     <!--  Custom Text  -->
+
+    <!-- Onboarding Titles  -->
+    <string name="title_1" tools:ignore="ExtraTranslation">Find the best doctors in your vicinity</string>
+    <string name="title_2" tools:ignore="ExtraTranslation">Schedule appointment with expert doctors</string>
+    <string name="title_3" tools:ignore="ExtraTranslation">Online consultation</string>
+
+    <!-- Onboarding Description  -->
+    <string name="description_1" tools:ignore="ExtraTranslation">
+        With the help of MedCare, you can now locate with the best doctor around your vicinity at total ease.
+    </string>
+    <string name="description_2" tools:ignore="ExtraTranslation">Schedule appointment with expert doctors</string>
+    <string name="description_3" tools:ignore="ExtraTranslation">Online consultation</string>
 </resources>
